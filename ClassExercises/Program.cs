@@ -25,16 +25,16 @@
 
               Console.WriteLine(returnString);*/
 
-            //int[] inputNumbers = { };
-            //double outcome = Numbers.CalculateNumberAverage(inputNumbers);
+            /*int[] inputNumbers = { };
+            double outcome = Numbers.CalculateNumberAverage(inputNumbers);
 
-            //Console.WriteLine("Average: " + outcome);
+            Console.WriteLine("Average: " + outcome);*/
 
-            /* string sentence = "Learning programming is cool";
+            /*string sentence = "Learning programming is cool";
              string answer = Words.FindLongestWord(sentence);
              Console.WriteLine("The longest word is " + answer);*/
 
-            /* int[] list = { 2, 4, 6, 8 };
+             int[] list = { 2, 4, 6, 8, 9 };
              bool output = Numbers.DertemineIfOddNumber(list);
              if (output)
              {
@@ -44,10 +44,9 @@
              else
              {
                  Console.WriteLine(output + " The array does not contain an odd number.");
-             }*/
+             }
 
-            string text = "Hello Word";
-            string vowelesString = Vowels.
+        }
     }
 
 }
